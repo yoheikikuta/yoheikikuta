@@ -1,4 +1,7 @@
-### Hi there 👋
+### Yohei Kikuta
+
+Resume: https://github.com/yoheikikuta/resume  
+Twitter: https://twitter.com/yohei_kikuta
 
 <!--
 **yoheikikuta/yoheikikuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
